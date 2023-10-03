@@ -31,7 +31,7 @@ const longestWord = (sent)=>{
     })
     return longestWords[0]
 }
-const sent  = "Smart people learn from everything and everyone, average people from their, stupid people already, have all the answers"
+const sent  = "Smart people learn from everything and everyone, average people from their experience, stupid people already, have all the answers"
 // test 1 - "Smart people learn from everything and everyone, average people from their, stupid people already, have all the answers"
 // test 2 - "1"
 // test 3 - "0"
